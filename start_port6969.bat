@@ -1,0 +1,3 @@
+@echo off
+echo Starting ipd_paperless_gateway_waitress.exe on port 6969...
+ipd_paperless_gateway_pg_waitress.exe 6969
